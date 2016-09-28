@@ -1,4 +1,4 @@
-hello world
+
 <html>
 	<head>
 		<title></title>
@@ -8,13 +8,13 @@ hello world
 			}
 		</style>
 	</head>
-	<body>
+	
 		<div id="div">
 			
 	
 		</div>
 		
-	</body>
+	
 
 
 </html>
